@@ -1,0 +1,6 @@
+{
+  "name": "nb-month-year-picker",
+  "version": "1.0.7",
+  "main": "index.tsx",
+  "license": "MIT"
+}
